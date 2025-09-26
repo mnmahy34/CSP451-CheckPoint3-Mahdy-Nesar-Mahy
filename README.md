@@ -1,6 +1,6 @@
 ## Status Badges
-- CI: ![CI](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/actions/workflows/ci.yml/badge.svg)
-- Pages: ![Deploy](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/actions/workflows/pages.yml/badge.svg)
+- CI: ![CI](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/.github/workflows/ci.yml/badge.svg)
+- Pages: ![Deploy](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/.github/workflows/pages.yml/badge.svg)
 - Coverage: ![codecov](https://codecov.io/gh/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/branch/main/graph/badge.svg)
 
 ## Project Structure

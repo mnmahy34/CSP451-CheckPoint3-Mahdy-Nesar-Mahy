@@ -1,14 +1,8 @@
-# CSP451 Student Seed (Weeks 1–3)
-
-Starter repository for CheckPoints 1–3. Use this to begin your assignments.
-
 ## Status Badges
 
-- CI: ![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)
-- Pages: ![Deploy](https://github.com/OWNER/REPO/actions/workflows/pages.yml/badge.svg)
-- Coverage: ![codecov](https://codecov.io/gh/OWNER/REPO/branch/main/graph/badge.svg)
-
-Replace `OWNER/REPO` with your GitHub path after your first push.
+- CI: ![CI](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/actions/workflows/ci.yml/badge.svg)
+- Pages: ![Deploy](https://github.com/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/actions/workflows/deploy.yml/badge.svg)
+- Coverage: ![codecov](https://codecov.io/gh/mnmahy34/CSP451-CheckPoint3-Mahdy-Nesar-Mahy/branch/main/graph/badge.svg)
 
 ## Project Structure
 - `src/` — HTML/CSS/JS scaffold

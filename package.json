@@ -1,0 +1,26 @@
+{
+  "name": "checkpoint-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --check .",
+    "test": "jest --coverage",
+    "build": "echo 'Building project...' && mkdir -p dist && echo '<h1>Hello CI/CD</h1>' > dist/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codecov": "^3.8.2",
+    "eslint": "^9.37.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-node": "^11.1.0",
+    "jest": "^30.2.0",
+    "prettier": "^3.6.2"
+  }
+}
